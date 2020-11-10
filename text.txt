@@ -58,15 +58,22 @@ Dormivi usque ad diem sequentem et esuriens experrecta sum. Indui vestimenta et 
 
 Nolui veneno mori. Etiam si venatrix non fui, conari oportuit mihi venarī. Vadi paulum in maris aqua ut viderem utrum pisces sint annon. Pisces vero erant, sed ubi gressus sum statim fugerunt nec revenerunt: velut ab orbe magno atque invisibili arcti manebant satis procul a me. Stupefacta paulum spatium steti eos revenire expectans sed pergebant manere me inquietantes.  Imago sacerdotis repentinus menti apparuit et horrescens conversi et spectavi ordinem arborum prope litus. Quies ubique. Arbores ipsae a me retraxere se visae sunt.  Perturbata clamavi.  Sentivi aliquid mali in arboribus, in litore, in piscibus. Iterum ad mare conversa ne unus quidem piscis in conspectu erat.
 
+----
 
-         II. Description of how she got here.
-                  1. Normal life before ship
-                  2. Reason for getting on ship
-                  3. Shipwreck
+Maledixa vel ego vel terra haec.  Quomodo contendere poteram cum diis* iratis?  Reliqui partem litoris ubi advenerat, ora* sequens. Iam non cibum sed alii mortales quaerebam. Terra non obstat: saxi permulti sed facile ascensu. Caelum satis serenum, calores satis placidi*.  
 
+Sed neminem vidi. Nec umquam sensi discessisse* deos malos. Aves volaverunt sursum sed ubi recte supra me venerunt cursum mutaverunt. Bestiae nonnumquam ex silva paulum egresserunt sed regresserunt ubi me primum agnoscerunt*. Nihil me nocuit sed omnes mala futura praebebant*.
 
+-----
 
-1. Lost
-2. Out of food
-3. Wild food
-4. Sickness         
+Magis in dies cibi cupido crescebatur*. Difficilior fiebat sine cibo
+ambulare atque ascendere saxos. Tandem consilium ingrendiendi in silvam
+cepi ut bacchas vel plantas edibiles invenirem.
+
+Silva fructuum plena erat. Cumulum multorum collegebam generum ut
+strictius inspicerem, et deinde arbusculam improviso visi satis notam.
+Cautione procul eiecta, bacchas permultas carpsi ac bucca tota farsi.
+
+Sapor coelestis corpus perfusit totum.
+
+set linewidth=72
